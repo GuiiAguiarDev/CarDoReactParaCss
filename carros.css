@@ -157,11 +157,18 @@ img {
   }
 
   .tec-seg img {
+    order: 1;
     max-width: 250px;
+  }
+
+  .texto-tec-seg{
+    order:2
   }
 
   .hr {
     max-width: 100%;
+    border: solid black;
+  
   }
 
   .container-footer {
